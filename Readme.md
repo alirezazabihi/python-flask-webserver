@@ -1,4 +1,4 @@
-Simple Python flask webserver listen on 5000 port and echo Hello world!.
+Simple Dockerized Python flask webserver listen on 5000 port and echo Hello world!.
 
 How to run:
 git clone git@github.com:alirezazabihi/python-flask-webserver.git
